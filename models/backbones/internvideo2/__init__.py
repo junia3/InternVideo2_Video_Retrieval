@@ -1,0 +1,1 @@
+from .internvideo2 import PretrainInternVideo2
